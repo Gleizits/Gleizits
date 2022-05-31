@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Gleizits/Gleizits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on its GitHub profile.
 
 Here are some ideas to get started:
@@ -13,4 +13,4 @@ Here are some ideas to get started:
 - 📫 How to contact me: geisselespino05@protonmail.com
 - 😄 Pronouns: Gleizits.
 - ⚡ Fun fact: My name is Geissel.
--->
+
