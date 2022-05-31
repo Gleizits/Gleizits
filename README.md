@@ -12,5 +12,5 @@ Here are some ideas to get started:
 - 💬 Ask me about how to contact me.
 - 📫 How to contact me: geisselespino05@protonmail.com
 - 😄 Pronouns: Gleizits.
-- ⚡ Fun fact: My real name is Geissel.
+- ⚡ Fun fact: I am Geissel Espino
 
