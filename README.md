@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm currently working on projects.
-- 🌱 I am currently learning Flask.
+- 🌱 I am currently learning Artificial Neural Network.
 - 👯 Looking to collaborate on open source projects.
 - 🤔 Looking for help with nothing for now.
 - 💬 Ask me about how to contact me.
